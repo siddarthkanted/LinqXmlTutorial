@@ -1,0 +1,5 @@
+F:\dotnet\LinqXmlSolution\LinqXmlConsoleApplication\bin\Debug\LinqXmlConsoleApplication.exe
+F:\dotnet\LinqXmlSolution\LinqXmlConsoleApplication\bin\Debug\LinqXmlConsoleApplication.pdb
+F:\dotnet\LinqXmlSolution\LinqXmlConsoleApplication\obj\Debug\LinqXmlConsoleApplication.csprojResolveAssemblyReference.cache
+F:\dotnet\LinqXmlSolution\LinqXmlConsoleApplication\obj\Debug\LinqXmlConsoleApplication.exe
+F:\dotnet\LinqXmlSolution\LinqXmlConsoleApplication\obj\Debug\LinqXmlConsoleApplication.pdb

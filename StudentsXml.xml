@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--created using linq-->
+<students>
+  <student id="3">
+    <name>
+      <firstname>
+        <first>sid</first>
+        <middle>r</middle>
+      </firstname>
+      <lastname>kanted</lastname>
+    </name>
+    <gender>male</gender>
+  </student>
+  <student id="5">
+    <name>rak</name>
+    <gender>male</gender>
+  </student>
+  <student id="19">
+    <name>DAD</name>
+    <gender>MALE</gender>
+  </student>
+  <student id="5">
+    <name>mom</name>
+    <gender>female</gender>
+  </student>
+</students>
